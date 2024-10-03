@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+S:\ programma\Labor3(algoritm)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+S:\ programma\Labor3(algoritm)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
