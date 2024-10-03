@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+S:\ programma\Labor3(algoritm)\ConsoleApplication1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+S:\ programma\Labor3(algoritm)\ConsoleApplication1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(25,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> S:\ programma\Labor3(algoritm)\ConsoleApplication1\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
